@@ -1,6 +1,1 @@
-flask 
-python-dotenv 
-requests
-
-# if you use node.js instead of python, use:
 # npm install dotenv request express cors
